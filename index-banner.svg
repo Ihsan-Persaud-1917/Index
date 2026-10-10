@@ -1,0 +1,106 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101019"/>
+      <stop offset=".55" stop-color="#171526"/>
+      <stop offset="1" stop-color="#101019"/>
+    </linearGradient>
+    <linearGradient id="title" x1="280" y1="120" x2="800" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F2FF"/>
+      <stop offset=".65" stop-color="#D9D5FF"/>
+      <stop offset="1" stop-color="#55F6FF"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#55F6FF"/>
+      <stop offset=".52" stop-color="#9B7CFF"/>
+      <stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#9B7CFF" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#9B7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#9292A8" stroke-opacity=".10" stroke-width=".7"/>
+    </pattern>
+    <clipPath id="frame">
+      <path d="M18 0H1182L1200 18V362L1182 380H18L0 362V18Z"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle cx="930" cy="160" r="290" fill="url(#halo)"/>
+
+    <!-- Architectural framing -->
+    <path d="M0 70H180L198 52H260" stroke="#55F6FF" stroke-opacity=".65"/>
+    <path d="M940 0V36L960 56H1200" stroke="#FF4FD8" stroke-opacity=".6"/>
+    <path d="M0 318H80L96 302H150" stroke="#9B7CFF" stroke-opacity=".7"/>
+    <path d="M1040 380V348L1060 328H1200" stroke="#55F6FF" stroke-opacity=".6"/>
+
+    <!-- Corner registration marks -->
+    <path d="M30 42V26H46M1154 26H1170V42M30 338V354H46M1154 354H1170V338"
+      stroke="#9292A8" stroke-width="1.2"/>
+    <path d="M42 56H102M42 64H76" stroke="#55F6FF" stroke-opacity=".65"/>
+    <path d="M1098 316H1158M1126 324H1158" stroke="#FF4FD8" stroke-opacity=".65"/>
+
+    <!-- Constellation traces -->
+    <g stroke="url(#trace)" stroke-width="1.2" stroke-opacity=".72">
+      <path d="M760 110L840 75L925 105L1000 63L1085 103"/>
+      <path d="M840 75L865 158L925 105L970 205L1085 103"/>
+      <path d="M865 158L810 240L910 275L970 205L1090 250"/>
+      <path d="M970 205L1040 300L1090 250"/>
+    </g>
+    <g fill="#101019" stroke-width="2">
+      <circle cx="760" cy="110" r="5" stroke="#55F6FF"/>
+      <circle cx="840" cy="75" r="4" stroke="#9B7CFF"/>
+      <circle cx="925" cy="105" r="7" stroke="#55F6FF"/>
+      <circle cx="1000" cy="63" r="4" stroke="#FF4FD8"/>
+      <circle cx="1085" cy="103" r="6" stroke="#9B7CFF"/>
+      <circle cx="865" cy="158" r="5" stroke="#FF4FD8"/>
+      <circle cx="970" cy="205" r="8" stroke="#55F6FF"/>
+      <circle cx="810" cy="240" r="4" stroke="#9B7CFF"/>
+      <circle cx="910" cy="275" r="5" stroke="#FF4FD8"/>
+      <circle cx="1090" cy="250" r="5" stroke="#55F6FF"/>
+      <circle cx="1040" cy="300" r="4" stroke="#9B7CFF"/>
+    </g>
+
+    <!-- Pixel fragments -->
+    <g>
+      <rect x="730" y="190" width="7" height="7" fill="#55F6FF"/>
+      <rect x="741" y="190" width="7" height="7" fill="#55F6FF" fill-opacity=".38"/>
+      <rect x="730" y="201" width="7" height="7" fill="#55F6FF" fill-opacity=".18"/>
+      <rect x="1110" y="150" width="8" height="8" fill="#FF4FD8"/>
+      <rect x="1122" y="150" width="8" height="8" fill="#FF4FD8" fill-opacity=".4"/>
+      <rect x="1110" y="162" width="8" height="8" fill="#FF4FD8" fill-opacity=".2"/>
+      <rect x="1020" y="330" width="6" height="6" fill="#9B7CFF"/>
+      <rect x="1030" y="330" width="6" height="6" fill="#9B7CFF" fill-opacity=".45"/>
+    </g>
+
+    <!-- Brand -->
+    <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+      <text x="76" y="82" fill="#55F6FF" font-size="11" font-weight="700" letter-spacing="3">◈ INDEX SYSTEM / PERSONAL ARCHIVE</text>
+
+      <text x="68" y="207" fill="#55F6FF" fill-opacity=".22" font-size="104" font-weight="900" letter-spacing="7">INDEX</text>
+      <text x="62" y="201" fill="url(#title)" font-size="104" font-weight="900" letter-spacing="7">INDEX</text>
+      <rect x="435" y="126" width="8" height="8" fill="#FF4FD8"/>
+      <rect x="448" y="126" width="8" height="8" fill="#FF4FD8" fill-opacity=".5"/>
+
+      <text x="70" y="247" fill="#F4F2FF" font-size="17" font-weight="700" letter-spacing="2.1">EVERY GAME LEAVES A TRACE.</text>
+      <text x="70" y="278" fill="#9292A8" font-size="13" letter-spacing=".3">A personal archive of games, experiences, and the connections between them.</text>
+
+      <path d="M70 301H430" stroke="#9292A8" stroke-opacity=".35"/>
+      <path d="M70 301H170" stroke="#55F6FF" stroke-width="2.5"/>
+      <text x="70" y="328" fill="#55F6FF" font-size="10" font-weight="700" letter-spacing="2">COLLECT</text>
+      <text x="173" y="328" fill="#FF4FD8" font-size="10" font-weight="700" letter-spacing="2">CONNECT</text>
+      <text x="288" y="328" fill="#9B7CFF" font-size="10" font-weight="700" letter-spacing="2">DISCOVER</text>
+    </g>
+
+    <!-- Outer border and signal markers -->
+    <path d="M18 .5H1181.8L1199.5 18.2V361.8L1181.8 379.5H18.2L.5 361.8V18.2Z"
+      stroke="#9292A8" stroke-opacity=".35"/>
+    <path d="M0 18H18M1182 380H1200" stroke="#55F6FF" stroke-width="2"/>
+    <path d="M1182 0H1200V18" stroke="#FF4FD8" stroke-width="2"/>
+  </g>
+</svg>
