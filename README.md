@@ -4,9 +4,13 @@
 
 <br/>
 
-[![PERSONAL](https://img.shields.io/badge/PROJECT-PERSONAL-55F6FF?style=flat-square&labelColor=101019)](#philosophy)
-[![ARCADE](https://img.shields.io/badge/AESTHETIC-DIGITAL_ARCADE-FF4FD8?style=flat-square&labelColor=101019)](#visual-identity)
-[![WIP](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-9B7CFF?style=flat-square&labelColor=101019)](#roadmap)
+<p align="center">
+  <strong>A personal archive of games, experiences, and the connections between them.</strong>
+  <br /><br />
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-9B7CFF?style=for-the-badge" alt="In development" />
+  <img src="https://img.shields.io/badge/STYLE-DIGITAL%20ARCADE-55F6FF?style=for-the-badge" alt="Digital arcade" />
+  <img src="https://img.shields.io/badge/PROJECT-PERSONAL%20ARCHIVE-FF4FD8?style=for-the-badge" alt="Personal archive" />
+</p>
 
 <br/>
 
