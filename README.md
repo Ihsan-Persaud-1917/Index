@@ -151,9 +151,9 @@ Deep-space darkness. Electric colour. Sharp geometry. A system that feels like i
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://placehold.co/220x80/101019/101019.png" width="150" alt="Arcade Void swatch"/>
-      <br/><strong>ARCADE VOID</strong>
-      <br/><code>#101019</code>
+      <img src="https://placehold.co/220x80/9B7CFF/9B7CFF.png" width="150" alt="Digital Violet swatch"/>
+      <br/><strong>DIGITAL VIOLET</strong>
+      <br/><code>#9B7CFF</code>
     </td>
     <td align="center" width="25%">
       <img src="https://placehold.co/220x80/1B1B2B/1B1B2B.png" width="150" alt="Cabinet swatch"/>
@@ -173,9 +173,9 @@ Deep-space darkness. Electric colour. Sharp geometry. A system that feels like i
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://placehold.co/220x80/9B7CFF/9B7CFF.png" width="150" alt="Digital Violet swatch"/>
-      <br/><strong>DIGITAL VIOLET</strong>
-      <br/><code>#9B7CFF</code>
+      <img src="https://placehold.co/220x80/101019/101019.png" width="150" alt="Arcade Void swatch"/>
+      <br/><strong>ARCADE VOID</strong>
+      <br/><code>#101019</code>
     </td>
     <td align="center" width="25%">
       <img src="https://placehold.co/220x80/F4F2FF/F4F2FF.png" width="150" alt="Signal White swatch"/>
