@@ -38,7 +38,7 @@ The late-night obsessions. The difficult milestones. The strange little games yo
 
 Index brings those experiences together in a searchable catalogue and an interactive constellation of game-to-game relationships.
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -146,20 +146,56 @@ Deep-space darkness. Electric colour. Sharp geometry. A system that feels like i
 
 ### The palette
 
+<div align="center">
+
 <table>
-<tr>
-<td align="center" bgcolor="#101019" width="25%"><br/><strong><span style="color:#F4F2FF">ARCADE VOID</span></strong><br/><code>#101019</code><br/><br/></td>
-<td align="center" bgcolor="#1B1B2B" width="25%"><br/><strong><span style="color:#F4F2FF">CABINET</span></strong><br/><code>#1B1B2B</code><br/><br/></td>
-<td align="center" bgcolor="#55F6FF" width="25%"><br/><strong><span style="color:#101019">ELECTRIC CYAN</span></strong><br/><code>#55F6FF</code><br/><br/></td>
-<td align="center" bgcolor="#FF4FD8" width="25%"><br/><strong><span style="color:#101019">GLITCH MAGENTA</span></strong><br/><code>#FF4FD8</code><br/><br/></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#9B7CFF"><br/><strong><span style="color:#101019">DIGITAL VIOLET</span></strong><br/><code>#9B7CFF</code><br/><br/></td>
-<td align="center" bgcolor="#F4F2FF"><br/><strong><span style="color:#101019">SIGNAL WHITE</span></strong><br/><code>#F4F2FF</code><br/><br/></td>
-<td align="center" bgcolor="#9292A8"><br/><strong><span style="color:#101019">STATIC SILVER</span></strong><br/><code>#9292A8</code><br/><br/></td>
-<td align="center" bgcolor="#151522"><br/><strong><span style="color:#F4F2FF">DEEP CABINET</span></strong><br/><code>#151522</code><br/><br/></td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/101019/101019.png" width="150" alt="Arcade Void swatch"/>
+      <br/><strong>ARCADE VOID</strong>
+      <br/><code>#101019</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/1B1B2B/1B1B2B.png" width="150" alt="Cabinet swatch"/>
+      <br/><strong>CABINET</strong>
+      <br/><code>#1B1B2B</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/55F6FF/55F6FF.png" width="150" alt="Electric Cyan swatch"/>
+      <br/><strong>ELECTRIC CYAN</strong>
+      <br/><code>#55F6FF</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/FF4FD8/FF4FD8.png" width="150" alt="Glitch Magenta swatch"/>
+      <br/><strong>GLITCH MAGENTA</strong>
+      <br/><code>#FF4FD8</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/9B7CFF/9B7CFF.png" width="150" alt="Digital Violet swatch"/>
+      <br/><strong>DIGITAL VIOLET</strong>
+      <br/><code>#9B7CFF</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/F4F2FF/F4F2FF.png" width="150" alt="Signal White swatch"/>
+      <br/><strong>SIGNAL WHITE</strong>
+      <br/><code>#F4F2FF</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/9292A8/9292A8.png" width="150" alt="Static Silver swatch"/>
+      <br/><strong>STATIC SILVER</strong>
+      <br/><code>#9292A8</code>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://placehold.co/220x80/151522/151522.png" width="150" alt="Deep Cabinet swatch"/>
+      <br/><strong>DEEP CABINET</strong>
+      <br/><code>#151522</code>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 ### The rules of the machine
 
